@@ -1,0 +1,17 @@
+{
+  "name": "02-estructura",
+  "version": "1.0.0",
+  "description": "prueba",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "server": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
